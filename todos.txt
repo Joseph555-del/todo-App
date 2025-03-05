@@ -1,0 +1,11 @@
+add a new player
+add a new member
+ add a new member
+Buy a camera
+Make soup.
+Make pizza
+Clean the code
+Buy the painting
+New Order
+We just made a default arg
+A brand new todo
